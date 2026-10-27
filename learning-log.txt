@@ -1,0 +1,8 @@
+Git and GitHub Learning Log
+
+Day 1:
+- Created my first repository.
+- Learned how to clone a repository.
+- Edited README.md locally.
+- Staged, committed, and pushed changes.
+- Created my first feature branch.
